@@ -9,7 +9,7 @@ class CashRegister
     @total += price * quantity
 end
 
-
+end
   
     
   
