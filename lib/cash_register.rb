@@ -11,7 +11,8 @@ end
 
 def apply_discount
   @total -= @total * @discount / 100
-  "after the discount, the total comes to $#{@total).""
+  "After the discount, the total comes to $#{@total)."
+  "There is no discount to apply: if @tot
   end
   
 end
